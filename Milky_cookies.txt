@@ -1,0 +1,18 @@
+Sample Question 4:
+Bear and Milky Cookies
+
+#Pseudo 
+1.Take an input contains an integer T.
+2.The first line of each test case contains 
+an integer N denoting the number of minutes.
+3.perform all validity check(1 ≤ T ≤ 50 and 1 ≤ N ≤ 50)
+4.Next the input contains string either "milk" or "cookie"
+5.We need to verify whether after each eaten
+cookie he drinks milk in the next minute. 
+Print "YES" or "NO" for each test case accordingly.
+6.IN the input cookie must followed by milk or milk is followed 
+by milk.Thus,this are consider as substring that must be present 
+in input string.
+7.Print "yes" or "No".
+
+

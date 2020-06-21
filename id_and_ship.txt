@@ -1,0 +1,30 @@
+Sample Question 11:
+Id and Ship
+
+#PSEUDO
+
+
+1.Take number of tests as input - T
+2.Perform all validity checks on T (1 ≤ T ≤ 1000)
+3.Number of tests to be run through code
+4.define function passing argument
+5.Inside switcher the argument of function will match the char and return value
+or be assigned as default value of passed argument
+6.Main function where for loop will run no.of test and the argument would be passed and return and display output
+
+
+
+
+#LOGIC
+
+
+  switcher = { 
+        "B": "BattleShip",
+        "b":"BattleShip",
+        "C": "Cruiser",
+        "c":"Cruiser",
+        "F": "Frigate",
+        "f":"Frigate",
+        "D":"Destroyer",
+        "d":"Destroyer"
+    } 

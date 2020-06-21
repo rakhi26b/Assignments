@@ -1,0 +1,22 @@
+Sample Question 10:
+Gross_Salary
+
+1.Take number of tests as input - T
+2.Perform all validity checks on T (1 ≤ T ≤ 1000)
+3.Number of tests to be run through code
+4.if bs is less than 1500 hra = bs * 10 / 100  da = bs * 90 / 100
+else hra = 500 da = bs * 98 / 100
+5.gross salary is calculated by gs = bs + hra + da
+6.And Value will be displayed
+
+
+
+
+#LOGIC
+ if  bs<1500:
+        hra = bs * 10 / 100
+        da = bs * 90 / 100		
+    else:
+        hra = 500
+        da = bs * 98 / 100
+    gs = bs + hra + da

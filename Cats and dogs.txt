@@ -1,0 +1,15 @@
+Sample Question 6:
+Cats and Dog
+
+
+#Pseudo
+
+1.Perform validity check of testcases(1 ≤ T ≤ 105)
+2.Check no. of cat, dogs and legs 0 ≤ C, D, L ≤ 109
+3.Different conditions should be include as follows:
+(1)L has to be a multiple of 4, has to count all the dogs 
+   at least and can count all the dogs and cats at most.
+(2)Each dog can have at most 2 cats on shoulder and although
+   no. of dogs is int ( 4*no_of_dogs may not be) May cause overflow 
+   for faulty results Typecast required.
+4.According to no. of legs the output will be displayed in "Yes" or "No"
